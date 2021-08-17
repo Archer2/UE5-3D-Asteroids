@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Asteriods.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2DC16C6F-2D47-4EF6-AED9-4A85918353F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Asteriods.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AsteriodsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{989A6312-004D-41B7-B609-A9896588EC32}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Asteriods">
+      <UniqueIdentifier>{1808E352-EF58-45BC-BE05-89453D0E1A46}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Asteriods\Asteriods.Build.cs">
+      <Filter>Source\Asteriods</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Asteriods\Asteriods.cpp">
+      <Filter>Source\Asteriods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteriods\Asteriods.h">
+      <Filter>Source\Asteriods</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteriods\AsteriodsGameModeBase.cpp">
+      <Filter>Source\Asteriods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteriods\AsteriodsGameModeBase.h">
+      <Filter>Source\Asteriods</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteriods\AsteroidsPlayerController.cpp">
+      <Filter>Source\Asteriods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteriods\AsteroidsPlayerController.h">
+      <Filter>Source\Asteriods</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteriods\GameZone.cpp">
+      <Filter>Source\Asteriods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteriods\GameZone.h">
+      <Filter>Source\Asteriods</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteriods\PlayerShip.cpp">
+      <Filter>Source\Asteriods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteriods\PlayerShip.h">
+      <Filter>Source\Asteriods</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

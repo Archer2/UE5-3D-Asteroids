@@ -1,0 +1,7 @@
+C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\Definitions.Asteriods.h
+C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Source\Asteriods\AsteriodsGameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Inc\Asteriods\AsteriodsGameModeBase.generated.h

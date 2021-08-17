@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Asteriods",
+			"Path": "C:\\Users\\allen\\Documents\\Unreal Projects\\UE5-3D-Asteroids\\Asteriods\\Source\\Asteriods.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AsteriodsEditor",
+			"Path": "C:\\Users\\allen\\Documents\\Unreal Projects\\UE5-3D-Asteroids\\Asteriods\\Source\\AsteriodsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

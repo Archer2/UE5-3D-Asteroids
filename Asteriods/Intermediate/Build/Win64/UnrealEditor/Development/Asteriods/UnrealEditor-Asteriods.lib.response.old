@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Asteriods.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\AsteriodsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\Asteriods.cpp.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\AsteriodsGameModeBase.cpp.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\GameZone.cpp.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\PlayerShip.cpp.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\Asteriods.init.gen.cpp.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\AsteriodsGameModeBase.gen.cpp.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\GameZone.gen.cpp.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\PlayerShip.gen.cpp.obj"
+"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\Default.rc2.res"
+/OUT:"C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\UnrealEditor-Asteriods.lib"
+/INCLUDE:IMPLEMENT_MODULE_Asteriods

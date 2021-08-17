@@ -1,0 +1,3 @@
+C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Development\Asteriods\Definitions.Asteriods.h
+C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Source\Asteriods\PlayerShip.h
+C:\Users\allen\Documents\Unreal Projects\UE5-3D-Asteroids\Asteriods\Intermediate\Build\Win64\UnrealEditor\Inc\Asteriods\PlayerShip.generated.h

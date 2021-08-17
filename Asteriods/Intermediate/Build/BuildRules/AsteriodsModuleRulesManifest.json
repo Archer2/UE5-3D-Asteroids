@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\allen\\Documents\\Unreal Projects\\UE5-3D-Asteroids\\Asteriods\\Source\\Asteriods\\Asteriods.Build.cs",
+		"C:\\Users\\allen\\Documents\\Unreal Projects\\UE5-3D-Asteroids\\Asteriods\\Source\\Asteriods.Target.cs",
+		"C:\\Users\\allen\\Documents\\Unreal Projects\\UE5-3D-Asteroids\\Asteriods\\Source\\AsteriodsEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}
